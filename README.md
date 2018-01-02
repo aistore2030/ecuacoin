@@ -1,4 +1,4 @@
-# imobicoin
+# ecuacoin
 
 This is a cryptocurrency from where you can do transaction ,send imobicoin and recieve imobicoin.
 
