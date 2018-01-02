@@ -8,7 +8,7 @@ Clone The Repository .
 
 ```sh
 
-https://github.com/sakshamapp/imobicoin.git
+https://github.com/sakshamapp/ecuacoin.git
 
 ```
 ## Start wallet 
@@ -17,7 +17,7 @@ Open Cloned folder through command prompt and run this command
 
 ```sh
 
-walletd.exe config configs/imobicoin.conf
+walletd.exe config configs/ecuacoin.conf
 
 ```
 
@@ -26,7 +26,7 @@ to open wallet in local port use this command
 
 ```sh
 
-walletd.exe config configs/imobicoin.conf -local
+walletd.exe config configs/ecuacoin.conf -local
 
 ```
 
